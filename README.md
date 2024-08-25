@@ -7,4 +7,4 @@ I cannot guarantee functionality in Vendetta or any other fork of it as I only t
 Go to Settings > Plugins, click the floating action button at bottom right, then paste the URL of the plugin you want to install.
 
 ## Plugin URL
-https://aliernfrog.github.io/vd-plugins/PLUGIN_NAME
+https://jamlotrasoiaf.github.io/vd-plugins/PLUGIN_NAME
